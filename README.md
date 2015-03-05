@@ -32,7 +32,7 @@
 -many other people for whom you will see their names in the credits of the file that was relevant.
  Many names from armaholic. To be honest, most of the scripts/tutorials on altisliferpg.com are really just modified versions from armaholic. It's not hard to do this, but it is hard to write, invent and come up with your own stuff. So make sure to give credit where credit is due. Take the time to learn and be creative. Always remember to have fun, it is video game...*
 
-*This readme is taken from Tonic and Yukas git which can be found here https://github.com/Itsyuka/Altis-Life which is the official git running version 4+*
+**This readme is taken from Tonic and Yukas git which can be found here https://github.com/Itsyuka/Altis-Life which is the official git running version 4+**
 
 
 >Altis Life / Altis Life RPG is developed by Tonic / TAW_Tonic. This contains primarily the release contain and on-going development changes to the mission. Altis Life RPG by Tonic is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
