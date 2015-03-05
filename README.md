@@ -2,6 +2,35 @@
 ###This is my edited version of Altis Life using Tonic's framework 
 ###All credits should be in all files, please leave them there if you take it
 **KEEP IN MIND THIS BUILD IS FOR 3.1.4.8 AND LOWER**
+###Features
+- All standard features from Tonic's standard release
+- Added: 2 new drug economies and respective gang/gather/process items *Krokodil, Meth*
+- 7 Standard police ranks with individual uniforms and shops - 1 main equipment shop
+- Shipwrecks and AI Crashed vehicle missions - spawn randomly and often. Loot is any drug and diamonds, or gold
+- Robbable gas stations with chance of failure - police notiified if silent alarm goes off
+- Jail with blastable front door to escape with AAN news break about jail\
+- Hunting with tracking ability. Can also gut and cook animal meat and sell it or eat it.
+- Random bushes with berries
+- XP Skill system - ties into everything and you get faster or paid more with the more xp you have
+- Integrated admin menu, Colin's menu with my expansions
+- Spyglass minmized for perfomance with custom script scan
+- Customized UI
+- Many more that I cannot remember off my head
+
+###Personal Note
+*We all should thank Tonic. ItsYuka for his updating and hassling of Tonic and for also now taking over the furthering of the project.  I personally would like to thank the following persons or communities as I have either learned, or used(with permission) something from you or something that was shared publicly or just something you wrote that helped me understand something a lot better.
+-Tonic
+-Itsyuka
+-ColinM991
+-ebay
+-Dscha
+-Vampire
+-weiRd
+-Red Dragon
+-john paratus van der swelt
+-papabear
+-many other people for whom you will see their names in the credits of the file that was relevant.
+ Many names from armaholic. To be honest, most of the scripts/tutorials on altisliferpg.com are really just modified versions from armaholic. It's not hard to do this, but it is hard to write, invent and come up with your own stuff. So make sure to give credit where credit is due. Take the time to learn and be creative. Always remember to have fun, it is video game...*
 
 *This readme is taken from Tonic and Yukas git which can be found here https://github.com/Itsyuka/Altis-Life which is the official git running version 4+*
 
