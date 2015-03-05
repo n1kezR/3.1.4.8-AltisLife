@@ -1,10 +1,12 @@
 # 3.1.4.8-AltisLife
-This is my edited version of Altis Life using Tonic's framework and many others help. All credits should be in all files, please leave them there if you take it
+###This is my edited version of Altis Life using Tonic's framework and many others help. 
+###All credits should be in all files, please leave them there if you take it
 
+*This readme is taken from Tonic and Yukas git which can be found here https://github.com/Itsyuka/Altis-Life which is the official git running version 4+*
 
-This readme is taken from Tonic and Yukas git which can be found here https://github.com/Itsyuka/Altis-Life which is the official git running version 4+ - KEEP IN MIND THIS BUILD IS FOR 3.1.4.8 AND LOWER
+**KEEP IN MIND THIS BUILD IS FOR 3.1.4.8 AND LOWER**
 
-Altis Life / Altis Life RPG is developed by Tonic / TAW_Tonic. This contains primarily the release contain and on-going development changes to the mission. Altis Life RPG by Tonic is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
+>Altis Life / Altis Life RPG is developed by Tonic / TAW_Tonic. This contains primarily the release contain and on-going development changes to the mission. Altis Life RPG by Tonic is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
 
 Usage / Terms of agreement
 
